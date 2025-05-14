@@ -71,7 +71,6 @@ LICENSE            # MIT License
 ## 🙋 Author
 
 - Email: gump71036969@gmail.com
-- Created for educational and penetration testing practice
 
 ---
 
